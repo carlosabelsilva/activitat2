@@ -1,0 +1,70 @@
+body{
+	background-image: url(fotos/fondo.jpg);
+}
+header{
+	display: flex;
+	width: 100%;
+}
+
+
+
+.iniciarsesion{
+	margin-left: 80%;
+
+}
+
+.crearcuenta{
+	margin-left: 5%;
+}
+
+.imagen1{
+	width: 100px;
+	height: 100px;
+}
+
+ul {
+	list-style-type: none;
+	width: 100%;
+	display:flex;
+	}
+li{
+	margin-left: 10%;
+	font-size: 120%; 
+}
+
+a{
+	list-style-type: none;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	color: green;
+}
+
+footer{
+	margin: 5%;
+	display: flex;
+	width: 90%;
+}
+
+main{
+	width: 100%;
+}
+
+.cinecarlitos{
+	width: 70%;
+	margin-left: 11%;
+}
+
+.cartelera1{
+	margin-left: 10%;
+}
+
+.vercartelera{
+	margin:42%;
+	border: solid lightgreen;
+	background-color: lightgreen;
+	color: white;
+	font-size: 130%;
+}
